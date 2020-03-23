@@ -5589,6 +5589,20 @@ var data = {
           tags: ['Conseils', 'Tech Talks'],
           lang: ['fr'],
         },
+        {
+          title: 'JS in CSS : Yes we can 🤔',
+          abstract:
+            "Alors que tout le monde parle de CSS in JS et si on regardait comment faire du JS in CSS ? Car oui c’est possible ! Est ce une bonne idée ? Je n’en suis pas convaincu mais pourquoi ne viendrez pas vous détendre sur cette session à la fois technique et fun.\n\n'Because we can' n’est ce pas ce qui nous motive dans certains de nos développements 😉",
+          tags: ['Web', 'CSS'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Le web Natif débarque',
+          abstract:
+            "Toujours dans la continuité du web manifesto visant à mettre à disposition plus d’API bas niveau sur le web. Le 'projet FUGU' (non ce n’est pas le nouveau nom du Yaourt de Dan…) est le nom de code du projet permettant de mettre à disposition des APIs web qui complètent l’intégration avec l’OS (Explorateur de fichier, Accès aux contacts, Bluetooth, …).\nVenez dans cette session pour découvrir quelles APIs vous allez pouvoir utiliser demain dans vos applications web.",
+          tags: ['Web', 'Fugu', 'NFC', 'webPlatform'],
+          lang: ['fr'],
+        },
       ],
       cities: ['Nantes'],
       contacts: {
